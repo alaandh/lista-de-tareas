@@ -21,6 +21,23 @@ const initStore = () => {
   console.log("InitStore 📝");
 };
 
+const loadStore = () => {
+  throw new Error("Not implemented");
+};
+
+const addAll = (description) => {
+  throw new Error("Not implemented");
+};
+
+const toggleAll = (allId) => {
+  throw new Error("Not implemented");
+};
+
+const deleteAll = (allId) => {
+  throw new Error("Not implemented");
+};
+
 export default {
   initStore,
+  loadStore,
 };
