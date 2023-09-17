@@ -1,6 +1,7 @@
 import "./style.css";
-import { App } from "./src/all/app";
-import allStore from "./src/store/all.store";
+import { App } from "./src/todos/app";
+import todoStore from "./src/store/todo.store";
 
-allStore.initStore();
+todoStore.initStore();
+
 App("#app");
