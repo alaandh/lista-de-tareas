@@ -1,5 +1,5 @@
 # lista-de-tareas
-Lista de tareas simple.
+Lista de tareas simple. 
 
 1. En la sección todos, puedes encontrar todas tus tareas.
 
